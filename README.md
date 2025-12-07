@@ -35,16 +35,10 @@ The project follows a simple, modular structure inspired by MVC:
 
 📂 Code Structure
 
-  Virtual_Memory_Simulator/
-  |-- 
-  main.py
-  |-- 
-  simulator.py 
-  |-- 
-  ui.py
-  |-- 
-  README.md
-
+  Virtual_Memory_Simulator/main.py
+  Virtual_Memory_Simulator/simulator.py
+  Virtual_Memory_Simulator/ui.py
+  Virtual_Memory_Simulator/README.md
 
 ⚙️ How It Works
 1. Logical Address Processing
