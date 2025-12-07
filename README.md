@@ -78,5 +78,5 @@ python main.py
 
 👤 Author
 Developed by: MJM.AMAJITH (721434768)
-Course: EEX5563/EEX5564 – Computer Architecture & Operating Systems
+Course: EEX5563 – Computer Organization & Operating Systems
 Institute: The Open University of Sri Lanka
