@@ -50,7 +50,7 @@ class VirtualMemorySimulator:
         page_num = logical_address // PAGE_SIZE
         offset = logical_address % PAGE_SIZE
 
-        if page_num >= NUM_PAGES:
+        if page_num >= NUM_PAGES or page_num < 0:
             return None, page_num, None, "Invalid Logical Address"
 
         frame_num = self.page_table[page_num]
